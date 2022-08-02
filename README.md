@@ -15,4 +15,6 @@ path\to\venv\Scripts\activate
 cd FlaskSpacyApi
 python main.py
 ```
+5. Test API.
+For Test the API you have to go into your localhost direction and use 'entity/{YOUR TEXT HERE}' 
 >Note. In case you want to use `Flask run` first you have to set FLASK APP as a environment variable. 
