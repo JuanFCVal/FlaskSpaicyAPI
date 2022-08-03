@@ -1,11 +1,11 @@
 # APPPEDIA BACKEND
 ## Universidad Técnica Particular de Loja.
 ## Knowledge-based systems  
-###ProJect Title : APPPEDIA ->  API REST for get entities and information from DBPEDIA using python and flask.
+### ProJect Title : APPPEDIA ->  API REST for get entities and information from DBPEDIA using python and flask.
 > Student: Juan Francisco Cevallos Valdivieso. April- August 2022. Professor: Nelson Piedra.
 # FlaskSpaicyAPI
 This is a Flask Rest API that uses spacy for detect Entities in DBPedia and start using NLP for text process.
-##For making this REST API work on localhost you have to follow these steps:
+#### For making this REST API work on localhost you have to follow these steps:
 1. Clone repository.
 Clone or Fork these repository in your local device.
 2. Create a virtual environment.
