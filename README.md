@@ -1,5 +1,5 @@
-#APPPEDIA BACKEND
-#Universidad Técnica Particular de Loja.
+# APPPEDIA BACKEND
+## Universidad Técnica Particular de Loja.
 ## Knowledge-based systems  
 ###ProJect Title : APPPEDIA ->  API REST for get entities and information from DBPEDIA using python and flask.
 > Student: Juan Francisco Cevallos Valdivieso. April- August 2022. Professor: Nelson Piedra.
