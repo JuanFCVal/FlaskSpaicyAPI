@@ -23,3 +23,7 @@ python main.py
 5. Test API.
 For Test the API you have to go into your localhost direction and use 'entity/{YOUR TEXT HERE}' 
 >Note. In case you want to use `Flask run` first you have to set FLASK APP as a environment variable. 
+
+Feel free to use, change, reply this API in your personal or comercial projects, I would be glad you to. 
+You can find wokring API on  [API] (https://flask-sbc.herokuapp.com/).
+For getting entities and text process (Detect language en or es, remove stopwords) use `/entity/YOUR TEXT HERE`
